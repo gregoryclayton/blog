@@ -1,6 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <header>
+   
+  </header>
+  <body>
 <h3>
 <i>another crack to fill<i><br>
   <br></h3>
+
+
+  <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/picture0.png" style="height:111px">
 
 
 <i><b>MAY_14_2023</b></i><br>
@@ -19,5 +28,9 @@
   
   
   
-  
+  </body>
+  <footer>
+  </footer>
+  </html>
+    
   

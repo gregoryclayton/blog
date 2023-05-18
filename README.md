@@ -5,11 +5,26 @@
   </header>
   <body>
 <h3>
-<i>another crack to fill<i><br>
+<i>another crack to fill...<i><br>
   <br></h3>
   
-   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/picture30.png" style="height:111px">
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle1.png" style="height:111px">
 
+<i><b>MAY_17_2023</b></i><br>
+<h5>auditing </h5>
+<i> started using the instaloader python library<br>
+  trying to identify bot account acitivty with just metadata<br>
+  <gunna audit big profiles to see how many bots their are
+  inputing account data into spreadsheets to compare results,<br>
+  probably gunna make some cool graphs. Flesh out the python script<br>
+  to automate the process and save to a .csv<br>
+  Using a new python script to "circle" the results of the random-image-generator for each post<br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+  
+  
+  
+  <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/picture30.png" style="height:111px">
 
 <i><b>MAY_16_2023</b></i><br>
 <h5>first course </h5>

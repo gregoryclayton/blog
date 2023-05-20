@@ -8,6 +8,20 @@
 <i>another crack to fill...<i><br>
   <br></h3>
   
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle2.png" style="height:111px">
+
+<i><b>MAY_20_2023</b></i><br>
+<h5>steadicam </h5>
+<i>
+  was reading David Bordwell's blog,pretty nostalgic<br>
+  Using github as an archive is sick,<br>
+  wanna start using the real capabilites though, start branching<br>
+  you cann laod entire instances of vscode in github<br>
+  possiblities are endless<br>
+  dizzying worlds<br><br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+  
    <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle1.png" style="height:111px">
 
 <i><b>MAY_17_2023</b></i><br>

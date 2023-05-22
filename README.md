@@ -8,6 +8,19 @@
 <i>another crack to fill...<i><br>
   <br></h3>
   
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle3.png" style="height:111px">
+
+<i><b>MAY_22_2023</b></i><br>
+<h5>IT'S BEEN- </h5>
+<i>
+one week into googles stat analysis course,<br>
+  5 weeks worth, the pace is rudimentary<br>
+  good course though, SQL is finally clicking after years of trying<br>
+  used a 100x100 matrix for the image pre-circled this time, don't like it<br>
+  <br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+  
    <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle2.png" style="height:111px">
 
 <i><b>MAY_20_2023</b></i><br>

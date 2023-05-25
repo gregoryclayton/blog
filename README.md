@@ -8,6 +8,19 @@
 <i>another crack to fill...<i><br>
   <br></h3>
   
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle4.png" style="height:111px">
+
+<i><b>MAY_25_2023</b></i><br>
+<h5>Uncle Kendal- </h5>
+<i>
+keeping up with posts daily is tough, seems...baostful<br>
+  fINALLY ran a helloworld.cpp<br>
+  could never file out compiling with VScode<br>
+  switched IDEs and bam, I'm a c++ man now
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+  
    <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle3.png" style="height:111px">
 
 <i><b>MAY_22_2023</b></i><br>

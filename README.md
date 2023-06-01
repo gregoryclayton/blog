@@ -8,6 +8,22 @@
 <i>another crack to fill...<i><br>
   <br></h3>
   
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle6.png" style="height:111px"><br>
+
+<i><b>MAY_31_2023</b></i><br>
+<h5>Half way there- </h5>
+<i>
+bout half way through google analytics now<br>
+  eyeing IBM data science next.<br>
+  making some headway with javascript<br>
+  webdev is lagging, its the key to world domination too<br>
+  gotta flesh it out, design philosophy too<br>
+  simple enough, pretty much just linking to substack<br>
+  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+  
    <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle4.png" style="height:111px"><br>
 
 <i><b>MAY_25_2023</b></i><br>

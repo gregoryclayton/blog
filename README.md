@@ -8,6 +8,20 @@
 <i>another crack to fill...<i><br>
   <br></h3>
   
+  <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle6.png" style="height:111px"><br>
+
+<i><b>JUNE_7_2023</b></i><br>
+<h5>sequels rule </h5>
+<i>
+The fact that SQL was a acroynm recursively<br>
+applied to the successor of IBM's System R language,<br>
+its sequel, this fact alone shows what a gift from<br>
+  most high SQL is. I've decided its my jam now.
+  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+  
    <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle6.png" style="height:111px"><br>
 
 <i><b>MAY_31_2023</b></i><br>

@@ -8,6 +8,20 @@
 <i>another crack to fill...<i><br>
   <br></h3>
   
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle1.png" style="height:111px"><br>
+
+<i><b>JUNE_11_2023</b></i><br>
+<h5>Joscha's God </h5>
+<i>
+Joscha Bach, greatest thinker alive, has a great<br>
+definition of god that is inpired a series of collages<br>
+representing lesser gods of history<br>
+Makin mad inroads with javascript game dev, laggin on web dev...
+  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+  
   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle6.png" style="height:111px"><br>
 
 <i><b>JUNE_7_2023</b></i><br>

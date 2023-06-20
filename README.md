@@ -7,6 +7,22 @@
 <h3>
 <i>another crack to fill...<i><br>
   <br></h3>
+
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle4.png" style="height:111px"><br>
+
+<i><b>JUNE_20_2023</b></i><br>
+<h5>one down </h5>
+<i>
+finally fininshed the google analytics certificate<br>
+pretty solid sql and spreadsheet and data viz info<br>
+lots of Rust programming stuff, they're really pushing rust over there at google eh<br>
+almost no mentions of python either, people are picking sides...<br>
+once I get some money ima take the IBM data science cert next<br>
+javascript game dev becoming awesome<br>
+  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
   
    <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle1.png" style="height:111px"><br>
 

@@ -8,6 +8,22 @@
 <i>another crack to fill...<i><br>
   <br></h3>
 
+
+  <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle1.png" style="height:111px"><br>
+
+<i><b>AUGUST_18_2023</b></i><br>
+<h5>summers gone </h5>
+<i>
+been almost 2 months hiatus but im back babay! <br>
+finally fixed the hashlog thing for my python image genration script <br>
+now each generation is sure to be unique, rather than just relying on the odds<br>
+the log file gets huge quick though, gunna have to use hashlib eventually...<br>
+uploaded a proof-of-concept for the world's densest novel, seems cool<br>
+  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+
    <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle4.png" style="height:111px"><br>
 
 <i><b>JUNE_20_2023</b></i><br>

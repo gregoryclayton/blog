@@ -9,6 +9,22 @@
   <br></h3>
 
 
+
+ <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle3.png" style="height:111px"><br>
+
+<i><b>AUGUST_21_2023</b></i><br>
+<h5>stucco</h5>
+wrote a bunch of python scripts for a short film i made<br>
+THey really just print out strings and read log files<br>
+to the lamen it looks pretty impressive, and just watching cursors<br>
+click around a screen is very hypnotizing<br>
+
+
+<i>  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+
   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle1.png" style="height:111px"><br>
 
 <i><b>AUGUST_18_2023</b></i><br>

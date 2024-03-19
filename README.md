@@ -8,7 +8,21 @@
 <i>another crack to fill...<i><br>
   <br></h3>
 
+ <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle6.png" style="height:111px"><br>
 
+<i><b>MARCH_19_2024</b></i><br>
+<h5>figuring AWS</h5>
+finally figured out this whole EC2 thing <br>
+this is the missing iece to my puzzle(doi)<br>
+gunna try git cloning a simple javascript game i made first<br>
+then its off to the races<br>
+good to be back btw<br>
+
+
+<i>  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
 
  <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle3.png" style="height:111px"><br>
 

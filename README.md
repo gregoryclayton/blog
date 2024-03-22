@@ -8,6 +8,24 @@
 <i>another crack to fill...<i><br>
   <br></h3>
 
+
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle1.png" style="height:111px"><br>
+
+<i><b>MARCH_22_2024</b></i><br>
+<h5> goddamn eurikaaaaaa</h5>
+after so many failed attempts at ssh<br>
+authentication, i finally fucking did it<br>
+generated keys, added them to github<br>
+cloned a breakout game i made a while back<br>
+feels like magic<br>
+lets the front end prototyping begin<br>
+
+
+<i>  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+
    <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle2.png" style="height:111px"><br>
 
 <i><b>MARCH_21_2024</b></i><br>

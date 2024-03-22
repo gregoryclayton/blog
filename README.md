@@ -8,12 +8,28 @@
 <i>another crack to fill...<i><br>
   <br></h3>
 
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle2.png" style="height:111px"><br>
+
+<i><b>MARCH_21_2024</b></i><br>
+<h5> Springtime came early</h5>
+ok haven't figured the whole git clone thing yet<br>
+the ssl process and generating keys n shit is more<br>
+of a headache than i thought, getting there<br>
+set up a wordpress instead, and a little oldschool<br>
+playblog, feelin good about it...for now...<br>
+
+
+<i>  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+
  <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle6.png" style="height:111px"><br>
 
 <i><b>MARCH_19_2024</b></i><br>
 <h5>figuring AWS</h5>
 finally figured out this whole EC2 thing <br>
-this is the missing iece to my puzzle(doi)<br>
+this is the missing piece to my puzzle(doi)<br>
 gunna try git cloning a simple javascript game i made first<br>
 then its off to the races<br>
 good to be back btw<br>

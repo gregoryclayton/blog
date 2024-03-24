@@ -8,6 +8,24 @@
 <i>another crack to fill...<i><br>
   <br></h3>
 
+  
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle1.png" style="height:111px"><br>
+
+<i><b>MARCH_24_2024</b></i><br>
+<h5> flowin'</h5>
+so many problems with SSH n shit<br>
+they were all because of typos<br>
+slow n steady i guess, especially<br>
+when I'm using nano, gotta learn more nano<br>
+started prototyping a webapp thatll take<br>
+down amazon n tik tok<br>
+
+
+<i>  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+
 
    <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle1.png" style="height:111px"><br>
 

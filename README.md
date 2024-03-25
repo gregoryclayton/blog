@@ -8,7 +8,24 @@
 <i>another crack to fill...<i><br>
   <br></h3>
 
-  
+   
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle4.png" style="height:111px"><br>
+
+<i><b>MARCH_25_2024</b></i><br>
+<h5> focus on me</h5>
+getting sober was smart<br>
+now my mind just runs unimpeded on<br>
+themillion tihngs i wanna do though now<br>
+gotta try n focus, narros shit down<br>
+1.personal site, 2.app prototype 3. database<br>
+gotta focus gotta focus gotta focus<br>
+
+
+<i>  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+ 
    <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle1.png" style="height:111px"><br>
 
 <i><b>MARCH_24_2024</b></i><br>

@@ -8,6 +8,20 @@
 <i>another crack to fill...<i><br>
   <br></h3>
 
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle3.png" style="height:111px"><br>
+
+<i><b>MARCH_26_2024</b></i><br>
+<h5>puzzle pieces</h5>
+kinda got my head around setting up<br>
+postgres on ubuntu ec2: another big piece<br>
+gotta start assemlbing the database now<br>
+random: open sora is dope<br>
+
+
+<i>  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
    
    <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle4.png" style="height:111px"><br>
 

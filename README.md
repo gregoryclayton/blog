@@ -8,6 +8,23 @@
 <i>another crack to fill...<i><br>
   <br></h3>
 
+  <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle6.png" style="height:111px"><br>
+
+<i><b>MARCH_28_2024</b></i><br>
+<h5>linking</h5>
+wrapping my head around linking pages <br>
+inside the /var/www/html directory <br>
+did;t work how i was hoping, now just<br>
+putting all content i that directory<br>
+instead of seperate ones till i figure<br>
+out adding direcotries<br>
+
+
+<i>  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+
    <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle3.png" style="height:111px"><br>
 
 <i><b>MARCH_26_2024</b></i><br>

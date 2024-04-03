@@ -8,6 +8,23 @@
 <i>another crack to fill...<i><br>
   <br></h3>
 
+   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/picture16.png" style="height:111px"><br>
+
+<i><b>APRIL_2_2024</b></i><br>
+<h5>fine tunes</h5>
+finished the main trucutre of my site<br>
+was hoping to clone it t my ec2 by now<br>
+little front end tweeks for details I<br>
+want is taking way longer than i hoped<br>
+been doing some nginx experiments in the mean<br>
+time. thinking bout COBOL<br>
+
+
+<i>  
+  <br><br>
+  <b>-G</b> </i>
+  <br><br><br><br><br> 
+
   <img id ="postimage" src="https://raw.githubusercontent.com/gregoryclayton/blog/main/indexPics/circle6.png" style="height:111px"><br>
 
 <i><b>MARCH_28_2024</b></i><br>

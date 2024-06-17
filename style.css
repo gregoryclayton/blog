@@ -36,6 +36,11 @@ body {
 .menulink {
     text-decoration: none;
     margin-left: 8%;
+    color: black;
+}
+
+.menulink:hover {
+    opacity: 0.8;
 }
 
 .menulinklast {

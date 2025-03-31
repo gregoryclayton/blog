@@ -30,12 +30,17 @@ body {
     position: sticky;
     top:0%;
 }
-
-.wordgame {
-    margin:10px;
-    margin-bottom: 20px;
+.wordgamebox {
+    display: flex;
     margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.wordgame {
+    margin:5px;
+    
     font-family: 'Georgia';
+    
 }
 
 .menubar {
@@ -59,14 +64,15 @@ body {
 .menulink {
     text-decoration: none;
     flex:3;
-    margin-left: 10%;
+    margin-left: 70%;
     font-size: 10px;
 }
 
 .menulinklast {
     
-  margin-left: 27%;
+  margin-left: 77%;
   text-decoration: none;
+  font-size: 10px;
 }
 
 .menulink:hover {
@@ -76,12 +82,25 @@ body {
 .videobar {
     width: 100%;
     height: 20vh;
-    background-color: rgb(48, 193, 193);
+    background-color: rgb(242, 249, 255);
     margin-top: 10px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     object-fit: cover;
     box-shadow: 0px 3px 5px -3px rgba(148, 148, 148, 0.333);
+    transition: 0.75s;
+}
+
+.videobarbig {
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(242, 249, 255);
+    margin-top: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    object-fit:cover;
+    box-shadow: 0px 3px 5px -3px rgba(148, 148, 148, 0.333);
+    transition: 0.5s;
 }
 
 .videobar2 {
@@ -94,13 +113,19 @@ body {
     box-shadow: 0px 3px 5px -3px rgba(148, 148, 148, 0.333);
 }
 
+.videoarchivelink {
+    position: relative;
+    float: right;
+}
+
 
 .blogContainer {
-    background-color: ;
+    
     width: 100%;
     display: grid;
     justify-items: center;
     align-items: center;
+    transition: 1s;
     
     
 }
@@ -108,8 +133,37 @@ body {
 .post {
     margin: 10px;
     width: 90%;
+    height:300px;
+    overflow-y: scroll;
+
+
    
     background-image: linear-gradient(to top , rgb(240, 254, 254), #f4f4f400);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 3px 5px -3px rgba(148, 148, 148, 0.333);
+    margin-top: 20px;
+    transition: 1s;
+}
+
+.post::-webkit-scrollbar {
+    width: 0%;
+    height: 0%;
+}
+
+.postcontent::-webkit-scrollbar {
+    width: 0%;
+    height: 0%;
+}
+
+.post2 {
+    transition: 0.5s;
+    margin: 10px;
+    width: 90%;
+   height: 600px;
+   overflow-y:scroll;
+   
+   background-image: linear-gradient(to top , rgb(240, 254, 254), #f4f4f400);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     box-shadow: 0px 3px 5px -3px rgba(148, 148, 148, 0.333);
@@ -125,6 +179,7 @@ body {
 
 .posttitle {
     font-family: monospace;
+
     text-decoration: none;
     margin-top: 10px;
     margin-left: 10px;
@@ -156,6 +211,15 @@ body {
 .postcontent {
     margin: 20px;
     font-family: 'Georgia';
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.postcontent2 {
+    margin: 20px;
+    font-family: 'Georgia';
+    height: 100%;
+    overflow-y: scroll;
 }
 
 .morebutton {
@@ -213,4 +277,56 @@ body {
 
 .archivelink:hover {
     font-size: 14px;
+}
+
+/* ****************** CIRCLE MATRIX CSS ATTRIBUTES ******************************************* */
+
+.outer {
+    
+   
+    width: 300px;
+    border-radius: 10px;
+    height: 100%;
+    overflow: hidden;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.inner {
+    display: grid;
+    
+ 
+}
+
+.row {
+    display: flex;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-image: linear-gradient(to top , rgb(255, 120, 120), #ffd7d7fe);
+    transition: 20s ;
+}
+.circle:hover {
+    /*transform: matrix(0.1, 0.1, 0.3, 0.2, 0, 0);*/
+    transform: scale(0.1);
+    transition: 0.2s;
+  
+}
+.pagearrowcontainer {
+    display: grid;
+    justify-items:center;
+    align-items: center;
+   
+    width: 100%;
+    height: 
+}
+.pagearrow {
+    font-family: monospace;
+    font-size: 20px;
+
+
 }

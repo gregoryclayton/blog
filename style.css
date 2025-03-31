@@ -147,13 +147,11 @@ body {
 }
 
 .post::-webkit-scrollbar {
-    width: 0%;
-    height: 0%;
+    display: none;
 }
 
 .postcontent::-webkit-scrollbar {
-    width: 0%;
-    height: 0%;
+    display: none;
 }
 
 .post2 {

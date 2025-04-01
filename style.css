@@ -156,7 +156,7 @@ body {
     transition: 0.5s;
     margin: 10px;
     width: 90%;
-   height: initial;
+   height: inherit;
    overflow-y:scroll;
    
    background-image: linear-gradient(to top , rgb(240, 254, 254), #f4f4f400);

@@ -289,11 +289,11 @@ body {
     font-family: monospace;
     color: black;
     margin-left: 5px;
-    font-size: 10px;
+    font-size: 8px;
 }
 
 .archivelink:hover {
-    font-size: 12px;
+    font-size: 10px;
 }
 
 /* ****************** CIRCLE MATRIX CSS ATTRIBUTES ******************************************* */

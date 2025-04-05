@@ -1,0 +1,340 @@
+body {
+    background-color: rgb(242, 249, 255);
+}
+
+.sitetitle {
+    font-family: monospace;
+    margin: 0px;
+    margin-left: 10 px;
+    margin-bottom: 15px;
+    display: inline-block;
+    align-content: center;
+    justify-content: center;
+    position: relative;
+    top: -5px;
+    
+   
+   
+    
+}
+
+.toptitlelogo {
+    position: sticky;
+    top: 1%;
+    z-index: 10;
+   
+}
+
+.titlebox {
+    display: flex;
+    position: sticky;
+    top:0%;
+}
+.wordgamebox {
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.wordgame {
+    margin:5px;
+    
+    font-family:monospace;
+    
+}
+
+.menubar {
+    background-image: linear-gradient(to bottom , rgb(240, 254, 254), #f4f4f400);
+    width: 100%;
+    height: 5vh;
+    display: inline-grid;
+    grid-template-columns: [first] 16% [second] 12% [third] 12% [fourth] 16%;
+    align-items: center;
+    justify-content: end;
+    position: sticky;
+    top: 0%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 0px -3px 3px 0px rgba(148, 148, 148, 0.053);
+    font-family: monospace;
+    color: black;
+}
+
+
+.menulink {
+    text-decoration: none;
+    flex:3;
+    margin-left: 60%;
+    font-size: 10px;
+}
+
+.menulinklast {
+    
+  margin-left: 77%;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.menulink:hover {
+    opacity: 0.8;
+}
+
+.videobar {
+    width: 100%;
+    height: 20vh;
+    background-color: rgb(242, 249, 255);
+    margin-top: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    object-fit: cover;
+    box-shadow: 0px 3px 5px -3px rgba(148, 148, 148, 0.333);
+    transition: 0.75s;
+}
+
+.videobarbig {
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(242, 249, 255);
+    margin-top: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    object-fit:cover;
+    box-shadow: 0px 3px 5px -3px rgba(148, 148, 148, 0.333);
+    transition: 0.5s;
+}
+
+.videobar2 {
+    width: 100%;
+    height: 15vh;
+    background-color: rgb(48, 193, 193);
+    margin-top: 10px;
+    border-radius: 10px;
+    object-fit: cover;
+    box-shadow: 0px 3px 5px -3px rgba(148, 148, 148, 0.333);
+}
+
+.videoarchivelink {
+    position: relative;
+    float: right;
+}
+
+
+.blogContainer {
+    
+    width: 100%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    transition: 1s;
+    
+    
+}
+
+.post {
+    margin: 10px;
+    width: 90%;
+    height:300px;
+    overflow-y: scroll;
+   
+    background-image: linear-gradient(to top , rgb(240, 254, 254), #f4f4f400);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 3px 5px -3px rgba(148, 148, 148, 0.333);
+    margin-top: 20px;
+    transition: 0,5s;
+}
+
+.mediapost {
+    margin: 10px;
+    width: 90%;
+    background-image: linear-gradient(to top , rgb(240, 254, 254), #f4f4f400);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 3px 5px -3px rgba(148, 148, 148, 0.333);
+    margin-top: 20px;
+    transition: 0,5s;
+}
+
+.post::-webkit-scrollbar {
+    display: none;
+}
+
+.postcontent::-webkit-scrollbar {
+    display: none;
+}
+
+.post2 {
+    transition: 0.5s;
+    margin: 10px;
+    width: 90%;
+   height: inherit;
+   overflow-y:scroll;
+   
+   background-image: linear-gradient(to top , rgb(240, 254, 254), #f4f4f400);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 3px 5px -3px rgba(148, 148, 148, 0.333);
+    margin-top: 20px;
+}
+
+.postdate {
+    font-family: monospace;
+    margin-top: 30px;
+    margin-left: 35px;
+    font-size: 12px;
+}
+
+.posttitle {
+    font-family: monospace;
+
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 25px;
+    color: black;
+}
+
+.postpic {
+   
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-top: 18px;
+    margin-left: 18px;
+    box-shadow: 0px 3px 5px -3px rgba(148, 148, 148, 0.333);
+    object-fit: cover;
+}
+
+.imgouter {
+    background-color: aliceblue;
+}
+ .postpic:hover {
+    opacity: 0.8;
+ }
+
+.postpiccontainer {
+    display: flex;
+}
+
+.postcontent {
+    margin: 20px;
+    font-family: 'Georgia';
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.postcontent2 {
+    margin: 20px;
+    font-family: 'Georgia';
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.morebutton {
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 12px;
+    margin-left: 15px; 
+}
+
+.footercontainer {
+    background-image: linear-gradient(to bottom , rgb(240, 254, 254), #f4f4f400);
+    width: 100%;
+    height: 5vh;
+   display: grid;
+   
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 0px -3px 3px 0px rgba(148, 148, 148, 0.053);
+    font-family: monospace;
+    color: black;
+}
+
+.copyright {
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.link1 {
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
+.about {
+    display: grid;
+    justify-items: center;
+}
+
+.imgbox {
+    margin-top: 50px;
+}
+
+.wordbox {
+    background-color:;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.archivelink {
+    text-decoration: none;
+    font-family: monospace;
+    color: black;
+    margin-left: 5px;
+}
+
+.archivelink:hover {
+    font-size: 14px;
+}
+
+/* ****************** CIRCLE MATRIX CSS ATTRIBUTES ******************************************* */
+
+.outer {
+    
+   
+    width: 300px;
+    border-radius: 10px;
+    height: 100%;
+    overflow: hidden;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.inner {
+    display: grid;
+    
+ 
+}
+
+.row {
+    display: flex;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-image: linear-gradient(to top , rgb(255, 120, 120), #ffd7d7fe);
+    transition: 20s ;
+}
+.circle:hover {
+    /*transform: matrix(0.1, 0.1, 0.3, 0.2, 0, 0);*/
+    transform: scale(0.1);
+    transition: 0.2s;
+  
+}
+.pagearrowcontainer {
+    display: grid;
+    justify-items:center;
+    align-items: center;
+   
+    width: 100%;
+    height: 
+}
+.pagearrow {
+    font-family: monospace;
+    font-size: 20px;
+
+
+}

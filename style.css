@@ -163,6 +163,14 @@ body {
     display: none;
 }
 
+.mediapost::-webkit-scrollbar {
+    display: none;
+}
+
+.post2::-webkit-scrollbar {
+    display: none;
+}
+
 .post2 {
     transition: 0.5s;
     margin: 10px;

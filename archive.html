@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARCHIVE  |  Lonely Places</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    
+    <link rel="shortcut icon" type="image/x-icon" href="lonely.png">
+</head>
+<body>
+
+     <a href="index.html"><img class="toptitlelogo" src="lonely.png" style="width: 20px; height: 20px; margin-top: 1px; margin-left: 5px; margin-bottom: 0px;"></a>
+    <div class="sitetitle"><a href="index.html" style="text-decoration: none; color: black;"><b>LON3LY</b></a></div>
+   
+
+
+
+    <div class="menubar">
+
+        <a class="menulink" href="blog.html">archive</a>
+
+        <a class="menulink" href="media.html">media</a>
+       
+
+        <a class="menulinklast" >///</a>
+
+    </div>
+
+    <img src="sun.png" style="width: 100px; margin-left: 70px; margin-top: 40px;">
+   
+    <div class="blogContainer">
+
+        <div class="post">
+          
+          <div class="posttitle"> <a class="posttitle" ><b>Archive</b></a></div>
+          <br>
+
+          <p> &nbsp &nbsp &nbsp &nbsp-<a href="/posts/Politicathalon_1.html" class="archivelink"> April 3, 2025 / Politicathalon #1</a></p>
+
+          <p> &nbsp &nbsp &nbsp &nbsp-<a href="/posts/The_Breath_Of_All_Things.html" class="archivelink"> April 1, 2025 / The Breath Of All Things</a></p>
+
+          <p> &nbsp &nbsp &nbsp &nbsp-<a href="/posts/The_Blurst_Of_Times.html" class="archivelink"> March 30, 2025 / The Blurst Of Times</a></p>
+
+         
+          <!--<a class="archivelink" href=""><p><i>&nbsp &nbsp reading list</i></p></a>-->
+         
+            <p>&nbsp</p>
+
+            
+         
+        </div>
+
+    </div>
+
+    <div class="wordgamebox">
+        <div class="wordgame" id="wordgame_1" onclick="tits2()">words</div>
+        <div class="wordgame" id="wordgame_2">words</div>
+        <div class="wordgame" id="wordgame_3" onclick="tits()">words</div>
+        </div>
+        
+        <div class="footercontainer">
+            <div class="copyright">&nbsp&copy; lon3ly 2024 <br><br></div>
+        <!--<div class="link1">a <a href="">dense</a> production<br>&nbsp</div>-->
+        </div>
+        
+           
+        <script>
+        
+            var bank = ["one","sdfdf","dsfd","fdgg","re","la"];
+            var smallBank = ["of", "a","or","to","and","with"];
+        
+            function tits() {
+        
+                var firstWord = document.getElementById("wordgame_1");
+                var newFirstWordPartOne = bank[Math.floor(Math.random()*bank.length)];
+                var newFirstWordPartTwo = bank[Math.floor(Math.random()*bank.length)];
+                var newFirstWord = newFirstWordPartOne.concat(newFirstWordPartTwo);
+                firstWord.innerHTML = newFirstWord;
+        
+            };
+        
+            function tits2() {
+        
+                var secondWord = document.getElementById("wordgame_3");
+                var newSecondWordPartOne = bank[Math.floor(Math.random()*bank.length)];
+                var newSecondWordPartTwo = bank[Math.floor(Math.random()*bank.length)];
+                var newSecondWord = newSecondWordPartOne.concat(newSecondWordPartTwo);
+                secondWord.innerHTML = newSecondWord;
+        
+            };
+        
+            function tits3() {
+        
+                var middleWord = document.getElementById("wordgame_2");
+                var newMiddleWord = smallBank[Math.floor(Math.random()*smallBank.length)];
+                middleWord.innerHTML = newMiddleWord;
+        
+            };
+        
+            
+            tits();
+            tits2();
+            tits3();
+          
+        </script>
+
+</body>
+</html>

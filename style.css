@@ -227,7 +227,7 @@ body {
 
 .postcontent {
     margin: 20px;
-    font-family: 'Georgia';
+    font-family: 'sans-serif';
     height: 100%;
     overflow-y: scroll;
 }

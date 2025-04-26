@@ -133,7 +133,7 @@ body {
 .post {
     margin: 10px;
     width: 90%;
-    height:300px;
+    height:400px;
     overflow-y: scroll;
    
     background-image: linear-gradient(to top , rgb(240, 254, 254), #f4f4f400);
